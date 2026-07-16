@@ -1,0 +1,2 @@
+15,Milk pack,350.0
+74,pencil,25.0
