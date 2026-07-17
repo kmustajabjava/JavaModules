@@ -43,6 +43,12 @@ public class Main {
 
         service.viewProducts();
 
+        service.searchProduct(12);
+
+        service.updateProduct(45,"Lays",90.50);
+
+        service.deleteProduct(12);
+
     }
 
 }
